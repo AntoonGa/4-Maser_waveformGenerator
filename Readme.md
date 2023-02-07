@@ -24,3 +24,4 @@ The PSD_v1.py is just a quick and dirty script to output normalized PSDs.
 
 ![ezcv logo](https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0268439.g001)
 Output example. Taken from my paper: "Deep neural networks to recover unknown physical parameters from oscillating time series" (https://doi.org/10.1371/journal.pone.0268439)
+  
