@@ -1,7 +1,7 @@
 """
 About the project: 
 This repo contains the 4-maser waveform generator used during my Axion Dark-Matter research project with USTC and JGU-mainz.
-In short, the lab at USTC had 4 Xenon-MASER outputting pure sinewaves for weeks on, which could be modulated (frequency/Amplitude) by Axions.
+In short, the lab at USTC had 4 Xenon-MASER outputting pure sinewaves for weeks on, which could be modulated (frequency/Amplitude) by Axions dark-matter.
 The point of this engine is to generate large numbers of accurate simulations of this setup.
 We would then go on an train our models on synthetic data, to later perform inference on the lab data (all of which must be analysed, preventing us from using lab-data to train).
 
